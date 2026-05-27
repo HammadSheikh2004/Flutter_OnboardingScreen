@@ -15,6 +15,7 @@ class OnBoardingApp extends StatelessWidget {
       home: SplashScreen(),
     );
   }
+  
 }
 
 
